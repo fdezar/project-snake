@@ -27,10 +27,6 @@ git clone https://github.com/your-username/snake-game.git
 
 2. Open the `index.html` file in your web browser to play the game.
 
-## Deploy Link 💻
-
-https://fdezar.github.io/project-snake-game/
-
 ## License 📄
 
 This project is licensed under the MIT License.
@@ -39,3 +35,7 @@ This project is licensed under the MIT License.
 
 - [fdezar](https://github.com/fdezar)
 - [MarcelCostaFerre](https://github.com/MarcelCostaFerre)
+
+## Deploy Link 💻
+
+https://fdezar.github.io/project-snake-game/
